@@ -1,0 +1,49 @@
+.cards {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap-reverse;
+    
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    
+}
+
+.cards div {
+    margin-right: 60px;
+    /* Repetitive code */
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: auto;
+    width: 30%;
+    height: 300px;
+    margin-top: 50px;
+
+}
+
+.card1 {
+    background-image: url(./images/image-background-card1.jpg);
+    
+    
+}
+
+
+.card2 {
+    background-image: url(./images/image-background-card2.jpg);
+
+}
+
+.card3 {
+    background-image: url(./images/image-background-card3.jpg);
+}
+
+.card4 {
+    background-image: url(./images/image-background-card4.jpg);
+}
+
+.card5 {
+    background-image: url(./images/image-background-card5.jpg);
+}
+

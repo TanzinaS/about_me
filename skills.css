@@ -1,0 +1,39 @@
+
+
+.progress {  
+    margin: 20px;
+    height: 20px;
+}
+
+.main {
+    display: flex;
+    align-items: flex-start;
+}
+
+
+
+.skill-breakdown {
+    margin: 150px;
+    /* margin-right: 50%; */
+    flex: 1;
+}
+
+
+
+.skill-breakdown p {
+    margin-left: 20px;
+}
+
+.image {
+    display: flex;
+    flex-wrap: wrap;
+    width: 35rem;
+    margin: 150px;
+}
+
+.image img {
+    margin: 5px;
+}
+
+
+
